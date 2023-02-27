@@ -5,7 +5,7 @@ import router from './router'
 import Flutterwave from  'flutterwave-vue-v3'
 
 
-Vue.use(Flutterwave, { publicKey: 'FLWPUBK-5f8b0678c717359fb8a051039e1f30bc-X' } )
+Vue.use(Flutterwave, { publicKey: 'FLWPUBK_TEST-05dcd4bf0bc42dc3833fedab3ef37019-X' } )
 
 Vue.config.productionTip = false
 
