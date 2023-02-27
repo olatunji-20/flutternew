@@ -12,7 +12,7 @@ export default {
     return {
       paymentData: {
         tx_ref: this.generateReference(),
-        amount: 10,
+        amount: 250,
         currency: 'NGN',
         payment_options: 'card,ussd',
         redirect_url: '',
